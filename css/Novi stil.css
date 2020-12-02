@@ -1,0 +1,33 @@
+.navbar-brand{
+padding:0 !important;
+
+
+}
+
+.navbar-default .navbar-nav>li>a{
+	letter-spacing: 0.3rem;
+	text-transform: uppercase;
+
+}
+
+.dropdpwn-manu>li>a{
+	letter-spacing: 0.2rem;
+	
+}
+.list-unstyled li {
+	padding: 1.5rem;
+	border-bottom: 1px solid black;
+
+	
+}
+
+ul
+{
+ list-style:none; 
+}
+
+.navbar-default {
+margin-top:20px;\
+
+}
+
